@@ -75,15 +75,15 @@ Having predicted the stock prices, we then get the relevant expected returns. Fr
 ### Built With
 
 This section should list all the main packages used in the project 
-*pandas
-*numpy
-*matplotlib.pyplot 
-*seaborn
-*sklearn
-*os
-*torch
-*keras
-*SciPy
+* pandas
+* numpy
+* matplotlib.pyplot 
+* seaborn
+* sklearn
+* os
+* torch
+* keras
+* SciPy
 
 ### Methods Used
 * Principal Component Analysis
