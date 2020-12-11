@@ -74,10 +74,16 @@ Having predicted the stock prices, we then get the relevant expected returns. Fr
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+This section should list all the main packages used in the project 
+*pandas
+*numpy
+*matplotlib.pyplot 
+*seaborn
+*sklearn
+*os
+*torch
+*keras
+*SciPy
 
 ### Methods Used
 * Principal Component Analysis
