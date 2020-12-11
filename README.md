@@ -60,8 +60,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Portfolio optimization is a process of allocating funds into financial assets with the goal of maximizing returns over risk. This repository is our attempt at utilising machine learning methods to create a sparsified and optimized portfolio that will perform well into the future. We went about doing this, by utilising 3 different techniques to forecast stock prices, namely : 
 
 * Moving average prediction
@@ -71,6 +69,9 @@ Portfolio optimization is a process of allocating funds into financial assets wi
 Having predicted the stock prices, we then get the relevant expected returns. From these we apply different prortfolio optimisation techniques to maximise returns over risk:
 * MonteCarlo Optimization
 * SciPy Optimize
+
+The relevant project schematic follows
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
