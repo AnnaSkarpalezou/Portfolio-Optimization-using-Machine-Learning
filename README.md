@@ -2,7 +2,7 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][]
+[![Stargazers][stars-shield][https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-Machine-Learning/stargazers]]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -19,7 +19,7 @@
   <h3 align="center">Machine Learning in Finance</h3>
 
   <p align="center">
-    Predictive-Portfolio-Optimization-using-Machine Learning
+    Predictive Portfolio Optimization using Machine Learning
     <br />
     <a href=https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-Machine-Learning><strong>Explore the docs »</strong></a>
     <br />
