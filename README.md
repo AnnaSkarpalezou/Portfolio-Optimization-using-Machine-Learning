@@ -96,14 +96,12 @@ This section should list all the main packages used in the project
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The data set used in this project can be accessed and imported directly into each model, from google drive. It is available to the entirety of the NYU network, however not publicly available as the information is 
 
 ### Prerequisites
 
-- [yacs](https://github.com/rbgirshick/yacs) (Yet Another Configuration System)
 - [PyTorch](https://pytorch.org/) (An open source deep learning platform) 
-- [ignite](https://github.com/pytorch/ignite) (High-level library to help with training neural networks in PyTorch)
+
 
 ### Installation
 
@@ -168,7 +166,7 @@ Project Link: [https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-M
 |Name     |  Handle   | 
 |---------|-----------------|
 |[Anna Skarpalezou](https://github.com/AnnaSkarpalezou)| @annaskarpalezou       |
-|[Jorge Barreno](https://github.com/jab1255)| @jab1255       |
+|[Jorge Barreno](https://github.com/[github handle])| @jorgebarreno        |
 |[Arjun Tisseverasinghe](https://github.com/arjuntisse) |     @arjuntisse    |
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -182,7 +180,7 @@ Project Link: [https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-M
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://opensource.org/licenses/MIT
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
