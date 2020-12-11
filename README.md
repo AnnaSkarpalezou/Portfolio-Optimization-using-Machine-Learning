@@ -1,4 +1,4 @@
-# Portfolio-Optimization-using-Machine Learning
+# Predictive-Portfolio-Optimization-using-Machine Learning
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -19,7 +19,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Predictive-Portfolio-Optimization-using-Machine Learning
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
