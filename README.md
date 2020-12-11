@@ -67,7 +67,7 @@ Having predicted the stock prices, we then get the relevant expected returns. Fr
 * SciPy Optimize
 
 The relevant project schematic follows
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![alt text](https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-Machine-Learning/blob/main/Pictures/Model%20Architecture-2.jpeg)
 
 ### Built With
 
@@ -186,4 +186,5 @@ Project Link: [https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-M
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-![alt text](https://github.com//AnnaSkarpalezou/ML-Deep-Learning-Portfolio-Optimization-with-Volatility-Clustering/blob/main/schematic.jpg?raw=true)
+
+
