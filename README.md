@@ -165,7 +165,7 @@ Project Link: [https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-M
 
 ## Team Members
 
-|Name     |  Slack Handle   | 
+|Name     |  Handle   | 
 |---------|-----------------|
 |[Anna Skarpalezou](https://github.com/AnnaSkarpalezou)| @annaskarpalezou       |
 |[Jorge Barreno](https://github.com/[github handle])| @jorgebarreno        |
