@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-Machine-Learning/blob/main/Pictures/unnamed.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Machine Learning in Finance</h3>
