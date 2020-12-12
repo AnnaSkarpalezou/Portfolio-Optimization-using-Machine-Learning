@@ -62,9 +62,7 @@ Portfolio optimization is a process of allocating funds into financial assets wi
 * Multiple linear regression prediction
 * Prediction using Reccurent Neural Networks, specifically Long short-term memory.
 
-Having predicted the stock prices, we then get the relevant expected returns. From these we apply different prortfolio optimisation techniques to maximise returns over risk:
-* MonteCarlo Optimization
-* SciPy Optimize
+Having predicted the stock prices, we then calculate the relevant expected returns. From these we apply an optimisation technique, using a custom sharpe ratio loss function that optimises the returns over the portfolio risk, while sparcifying the output weights, expressing the tradeoff between portfolio optimality and simplicity=.
 
 The relevant project schematic follows
 ![alt text](https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-Machine-Learning/blob/main/Pictures/Model%20Architecture-2.jpeg)
